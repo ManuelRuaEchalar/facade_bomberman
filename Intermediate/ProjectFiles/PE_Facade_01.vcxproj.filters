@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PE_Facade_01.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{E966672A-30A6-4152-AC0B-3F1BCFBEF8AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PE_Facade_01.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PE_Facade_01Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
+    <None Include="..\..\_Facade.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{371D8F30-E322-4C9E-A6D8-A6E7CABFD634}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PE_Facade_01">
+      <UniqueIdentifier>{A115E62A-40F4-4B71-9670-83E4731EA8F4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PE_Facade_01\ConfiguracionNivel.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\ConfiguracionNivel.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PE_Facade_01\GestorDificil.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\GestorDificil.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PE_Facade_01\GestorDificultad.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\GestorDificultad.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PE_Facade_01\GestorFacil.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\GestorFacil.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PE_Facade_01\GestorMedio.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\GestorMedio.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PE_Facade_01\GoombaEnemigo.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\GoombaEnemigo.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PE_Facade_01\GoombaPrototype.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\GoombaPrototype.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PE_Facade_01\PE_Facade_01.Build.cs">
+      <Filter>Source\PE_Facade_01</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PE_Facade_01\PE_Facade_01.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\PE_Facade_01.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PE_Facade_01\PE_Facade_01Character.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\PE_Facade_01Character.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PE_Facade_01\PE_Facade_01GameMode.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\PE_Facade_01GameMode.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PE_Facade_01\PE_Facade_01PlayerController.cpp">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PE_Facade_01\PE_Facade_01PlayerController.h">
+      <Filter>Source\PE_Facade_01</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

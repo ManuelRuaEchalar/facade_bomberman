@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PE_Facade_01-0963.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\PE_Facade_01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\ConfiguracionNivel.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\GestorDificil.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\GestorDificultad.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\GestorFacil.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\GestorMedio.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\PE_Facade_01.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\PE_Facade_01Character.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\PE_Facade_01GameMode.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\PE_Facade_01PlayerController.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\ConfiguracionNivel.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\GestorDificil.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\GestorDificultad.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\GestorFacil.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\GestorMedio.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\PE_Facade_01.init.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\PE_Facade_01Character.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\PE_Facade_01GameMode.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\PE_Facade_01PlayerController.gen.cpp.obj"
+"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\Default.rc2.res"
+/OUT:"C:\Users\jruae\Documents\Unreal Projects\facade\PE_Facade\Intermediate\Build\Win64\UE4Editor\Development\PE_Facade_01\UE4Editor-PE_Facade_01-0963.lib"
